@@ -1,1 +1,1 @@
-export const data = "[{name: 'sanji'}]"
+export const users = "[{name: 'sanji'}]"
